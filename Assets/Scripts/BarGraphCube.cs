@@ -42,6 +42,7 @@ public class BarGraphCube : MonoBehaviour
             middleBar.transform.localScale = new Vector3(1, 10, 1);
             middleBar.GetComponent<MeshRenderer>().material = planeMaterial;
 
+            GameObject.
 
             moved = true;
         }
